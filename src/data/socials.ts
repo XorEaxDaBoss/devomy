@@ -1,10 +1,10 @@
-export const twitter = "@kevinzunigacuel";
-export const author = "Kevin Zuniga Cuellar";
+export const twitter = "@jilulululululu";
+export const author = "Silver Angelo Bonto";
 
 export const defaultMeta = {
-  title: "Kevin Zuniga Cuellar",
+  title: "Silver Angelo Bonto",
   description:
-    "Welcome to my personal website! I am a software engineering student. I'm passionate about building software that helps developers to be more productive",
+    "Welcome to my personal website! I am a senior high school student. I'm passionate about building software that helps developers to be more productive",
   ogImage: {
     src: "/static/banner.png",
     alt: "Photo of the author smiling",
