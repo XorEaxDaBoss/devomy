@@ -4,27 +4,19 @@
     "text": "Home"
   },
   {
-    "href": "/projects/",
-    "text": "Projects"
-  },
-  {
     "href": "/blog/",
-    "text": "Blog"
+    "text": "Devotion"
   },
   {
-    "href": "/bookshelf/",
-    "text": "Bookshelf"
-  },
-  {
-    "href": "https://www.linkedin.com/in/kevinzunigacuellar",
+    "href": "https://www.facebook.com/silverangeloo",
     "rel": "noopener noreferrer",
     "target": "_blank",
-    "text": "LinkedIn"
+    "text": "Facebook"
   },
   {
-    "href": "https://github.com/kevinzunigacuellar",
+    "href": "https://instagram.com/gelooozxc",
     "target": "_blank",
     "rel": "noopener noreferrer",
-    "text": "GitHub"
+    "text": "Instagram"
   }
 ]
