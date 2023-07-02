@@ -11,19 +11,19 @@ heroAlt: "The logo of Astro and Tailwind CSS"
 
   
 
-Genesis 6
+Genesis 6:5-8
   
 
 ## Observation
 
-Cain, eldest son of Adam and Eve, becomes jealous of his brother Abel because Abel finds favor in the sight of the Lord and Cain does not.  Rather than heed the Lord's warnings, Cain lets his anger and hatred grow until he takes his brother to a field, committing the first premeditated murder.  Lamech also kills, but he tells his wives that it was in self-defense.
+The passage describes the wickedness and corruption that had overtaken humanity during this time. God's response to the state of humanity was one of sorrow, regret, and deep concern. Despite the impending judgment, Noah is singled out as a righteous man who found favor in God's eyes.
 
   
 
 
 ## Application
 
-God spoke to Cain and warned him about what was going on in his heart. "If you do well, will you not be accepted? And if you do not do well, sin lies at the door.  And its desire is for you, but you should rule over it." (verse 7).  As James explains, "Each one is tempted when he is drawn away by his own desires and enticed.  Then, when desire has conceived, it gives birth to sin; and sin, when it is full-grown, brings forth death." (James 1:14-15).  We are to examine ourselves and see if our desires are in line with God's will, and if they are not, we must rid ourselves of them.  With the Lord's help, we can rule over our sinful desires.
+Noah's righteousness and favor with God offer encouragement and inspiration. We are reminded of the importance of living a life that pleases God, seeking His favor through obedience, faith, and righteousness. He also stood out amidst a wicked generation. Similarly, we are called to be lights in the midst of darkness, living out our faith and sharing God's love and truth with others.
 
 
 
