@@ -17,7 +17,7 @@ export default defineConfig({
   build: {
     inlineStylesheets: "auto",
   },
-  site: "https://www.kevinzunigacuellar.com",
+  site: "https://xoreaxdaboss.github.io",
   markdown: {
     remarkPlugins: [codeTitle],
     shikiConfig: {
