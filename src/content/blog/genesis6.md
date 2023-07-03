@@ -11,7 +11,7 @@ heroAlt: "The logo of Astro and Tailwind CSS"
 
   
 
-Genesis 6:5-8
+Genesis 6:5–8: The LORD saw how great the wickedness of the human race had become on the earth, and that every inclination of the thoughts of the human heart was only evil all the time. The LORD regretted that he had made human beings on the earth, and his heart was deeply troubled. So the LORD said, “I will wipe from the face of the earth the human race I have created—and with them the animals, the birds and the creatures that move along the ground—for I regret that I have made them.” But Noah found favor in the eyes of the LORD.
   
 
 ## Observation

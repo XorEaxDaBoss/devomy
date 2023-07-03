@@ -11,7 +11,7 @@ heroAlt: "The logo of Astro and Tailwind CSS"
 
   
 
-Matthew 2:19-23
+Matthew 2:19–23: After Herod died, an angel of the Lord appeared in a dream to Joseph in Egypt and said, “Get up, take the child and his mother and go to the land of Israel, for those who were trying to take the child’s life are dead.” So he got up, took the child and his mother and went to the land of Israel. But when he heard that Archelaus was reigning in Judea in place of his father Herod, he was afraid to go there. Having been warned in a dream, he withdrew to the district of Galilee, and he went and lived in a town called Nazareth. So was fulfilled what was said through the prophets, that he would be called a Nazarene.
   
 
 ## Observation

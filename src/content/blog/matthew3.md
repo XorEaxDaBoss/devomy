@@ -9,9 +9,12 @@ heroAlt: "The logo of Astro and Tailwind CSS"
 
 ## Scripture
 
-  
 
-Matthew 3:1-3
+Matthew 3:1–3: In those days John the Baptist came, preaching in the wilderness of Judea and saying, “Repent, for the kingdom of heaven has come near.” This is he who was spoken of through the prophet Isaiah: 
+
+         “A voice of one calling in the wilderness, 
+         ‘Prepare the way for the Lord, 
+         make straight paths for him.’ ”
   
 
 ## Observation
