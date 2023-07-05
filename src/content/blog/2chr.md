@@ -1,5 +1,5 @@
 ---
-title: 2 Chronicles 25
+title: 2 Chronicles Chapter 25
 description: I use SOAP method to engage with Scripture in a structured and meaningful way, allowing it to guide my actions, and strengthen relationship with God.
 pubDate: 2023-07-05
 updatedDate: 2023-07-05
