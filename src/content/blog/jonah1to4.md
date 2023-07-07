@@ -1,5 +1,5 @@
 ---
-title: Jonah Chapter 1-4
+title: Jonah Chapter 4
 description: I use SOAP method to engage with Scripture in a structured and meaningful way, allowing it to guide my actions, and strengthen relationship with God.
 pubDate: 2023-07-06
 updatedDate: 2023-07-06
@@ -10,18 +10,18 @@ heroAlt: "The logo of Astro and Tailwind CSS"
 ## Scripture
 
 
-Jonah 1-4
+Jonah 4:11: But Nineveh has more than a hundred and twenty thousand people who cannot tell their right hand from their left, and many cattle as well. Should I not be concerned about that great city?
   
 
 ## Observation
 
-Jonah was a prophet of God who received a specific command to go to the city of Nineveh and proclaim its wickedness. Instead of obeying, Jonah decided to flee from God's presence and boarded a ship going in the opposite direction. God sent a great storm upon the sea, causing the ship to be in danger. Jonah confessed to the sailors that he was running away from God and suggested that they throw him into the sea to calm the storm. God appointed a great fish to swallow Jonah, where he remained for three days and three nights. Jonah prayed to God from the belly of the fish, acknowledging God's power and salvation. The fish vomited Jonah onto dry land. The people of Nineveh, including the king, responded to Jonah's message with repentance and fasting. And God saw their repentance and relented from destroying the city.
+God is speaking to Jonah, addressing his anger and frustration over the repentance of the people of Nineveh. God highlights the great number of people living in Nineveh, including those who are ignorant or innocent, symbolized by those who cannot tell their right hand from their left, as well as the abundance of cattle. God emphasizes His deep concern for the city and its inhabitants, revealing His compassionate nature and His desire for their redemption.
   
 
 
 ## Application
 
-Jonah's prayer in the belly of the fish teaches us the importance of acknowledging God's sovereignty and seeking His forgiveness. The people of Nineveh's response to Jonah's message serves as a reminder that genuine repentance and a turning away from wickedness can lead to God's mercy.
+Jonah's response to God's compassion reveals his own lack of understanding and limited perspective. This verse challenges us to align our hearts with God's, embracing His love for the lost and His desire to see people come to repentance. It encourages us to set aside our personal preferences, biases, or feelings of superiority and to actively participate in God's redemptive mission for all humanity.
 
 
 
@@ -29,4 +29,4 @@ Jonah's prayer in the belly of the fish teaches us the importance of acknowledgi
 
 ## Prayer
 
-Lord, Help us to be obedient to Your commands and to listen for Your voice. Grant us the courage to follow Your leading, even when it may seem difficult. May we always acknowledge Your sovereignty and seek Your forgiveness in times of need. Teach us to be agents of repentance and mercy, sharing Your message of salvation with those around us. Amen.
+Lord, thank you for revealing Your compassionate nature through the story of Jonah. Open our hearts to understand the value of every life and to embrace Your love for all people. Help us see others as You see them, and grant us the boldness and compassion to share Your message of salvation. May we be instruments of Your grace and vessels of Your mercy, shining Your light in a world in need of Your love. Amen.
