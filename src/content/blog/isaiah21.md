@@ -11,7 +11,7 @@ heroAlt: "The logo of Astro and Tailwind CSS"
 
   
 
-Isaiah 11:8-9: And the lookout shouted, “Day after day, my lord, I stand on the watchtower; every night I stay at my post. Look, here comes a man in a chariot with a team of horses. And he gives back the answer: ‘Babylon has fallen, has fallen! All the images of its gods lie shattered on the ground!’ ”
+Isaiah 21:8-9: And the lookout shouted, “Day after day, my lord, I stand on the watchtower; every night I stay at my post. Look, here comes a man in a chariot with a team of horses. And he gives back the answer: ‘Babylon has fallen, has fallen! All the images of its gods lie shattered on the ground!’ ”
   
 
 ## Observation
