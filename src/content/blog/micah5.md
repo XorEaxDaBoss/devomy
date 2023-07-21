@@ -9,9 +9,6 @@ heroAlt: "The logo of Astro and Tailwind CSS"
 
 ## Scripture
 
-  
-
-
 Micah 5:2: But you, Bethlehem Ephrathah, though you are small among the clans of Judah, out of you will come for me one who will be ruler over Israel, whose origins are from of old, from ancient times.
   
 
