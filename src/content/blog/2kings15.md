@@ -1,6 +1,6 @@
 ---
 title: 2 Kings Chapter 15
-description: I use SOAP method to engage with Scripture in a structured and meaningful way, allowing it to guide my actions, and strengthen relationship with God.
+description: In 2 Kings 15:37, it is mentioned that Jotham, the son of Uzziah, reigned over Judah for a period of 16 years. During his reign, he did what was right in the eyes of the Lord, just as his father had done before him.
 pubDate: 2023-07-07
 updatedDate: 2023-07-07
 hero: "./images/devotion.jpg"

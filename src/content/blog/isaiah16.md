@@ -1,6 +1,6 @@
 ---
 title: Isaiah Chapter 16
-description: I use SOAP method to engage with Scripture in a structured and meaningful way, allowing it to guide my actions, and strengthen relationship with God.
+description: Isaiah 16:13-14 describes the judgment that God will bring upon Moab for their pride and arrogance. It serves as a warning to all who exalt themselves above God.
 pubDate: 2023-07-19
 updatedDate: 2023-07-19
 hero: "./images/devotion.jpg"

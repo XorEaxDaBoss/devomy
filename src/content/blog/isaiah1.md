@@ -1,6 +1,6 @@
 ---
 title: Isaiah Chapter 1
-description: I use SOAP method to engage with Scripture in a structured and meaningful way, allowing it to guide my actions, and strengthen relationship with God.
+description: Isaiah 1:18 reminds us that God forgives and cleanses us of our sins, no matter how deep or dark. We should seek his forgiveness and turn away from our sinful ways, knowing he welcomes us back with open arms.
 pubDate: 2023-07-09
 updatedDate: 2023-07-09
 hero: "./images/devotion.jpg"

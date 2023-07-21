@@ -1,6 +1,6 @@
 ---
 title: 2 Kings Chapter 16
-description: I use SOAP method to engage with Scripture in a structured and meaningful way, allowing it to guide my actions, and strengthen relationship with God.
+description: In 2 Kings 17:25-26, it talks about how the king of Assyria brought people from different nations and settled them in Samaria, resulting in them not knowing how to worship the Lord.
 pubDate: 2023-07-17
 updatedDate: 2023-07-17
 hero: "./images/devotion.jpg"

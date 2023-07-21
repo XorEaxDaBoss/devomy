@@ -1,6 +1,6 @@
 ---
 title: Amos Chapter 7
-description: I use SOAP method to engage with Scripture in a structured and meaningful way, allowing it to guide my actions, and strengthen relationship with God.
+description: Amos 7:14-15 describes how Amos was called by God to prophesy to the people of Israel, despite his lack of formal training as a prophet. The verses emphasize that it was only through God's guidance that Amos was able to speak truthfully and effectively to the people.
 pubDate: 2023-07-12
 updatedDate: 2023-07-12
 hero: "./images/devotion.jpg"

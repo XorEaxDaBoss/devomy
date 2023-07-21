@@ -1,6 +1,6 @@
 ---
 title: Isaiah Chapter 23
-description: I use SOAP method to engage with Scripture in a structured and meaningful way, allowing it to guide my actions, and strengthen relationship with God.
+description: Isaiah 23:17 describes the eventual end of Tyre and the fall of its proud and arrogant inhabitants. It serves as a warning against pride and the consequences of putting trust in material possessions rather than in God.
 pubDate: 2023-07-21
 updatedDate: 2023-07-21
 hero: "./images/devotion.jpg"

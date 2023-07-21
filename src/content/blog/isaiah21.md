@@ -1,6 +1,6 @@
 ---
 title: Isaiah Chapter 21
-description: I use SOAP method to engage with Scripture in a structured and meaningful way, allowing it to guide my actions, and strengthen relationship with God.
+description: Isaiah 21:8-9 describes the fall of Babylon and the devastation that will come upon the city. It is a reminder of the consequences of disobedience and the ultimate power of God to bring judgment upon the wicked.
 pubDate: 2023-07-20
 updatedDate: 2023-07-20
 hero: "./images/devotion.jpg"

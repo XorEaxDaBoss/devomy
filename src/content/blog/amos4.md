@@ -1,6 +1,6 @@
 ---
 title: Amos Chapter 4
-description: I use SOAP method to engage with Scripture in a structured and meaningful way, allowing it to guide my actions, and strengthen relationship with God.
+description: Amos 4:11 talks about the destruction of a city by fire, as a warning to the people to turn back to the Lord and repent of their sins."
 pubDate: 2023-07-11
 updatedDate: 2023-07-11
 hero: "./images/devotion.jpg"

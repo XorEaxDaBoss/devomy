@@ -1,6 +1,6 @@
 ---
 title: Micah Chapter 4
-description: I use SOAP method to engage with Scripture in a structured and meaningful way, allowing it to guide my actions, and strengthen relationship with God.
+description: In Micah 4:6, it is prophesied that God will gather and restore his people and make them strong.
 pubDate: 2023-07-14
 updatedDate: 2023-07-14
 hero: "./images/devotion.jpg"

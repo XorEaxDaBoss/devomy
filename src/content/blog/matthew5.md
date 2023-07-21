@@ -1,6 +1,6 @@
 ---
 title: Matthew Chapter 5
-description: I use SOAP method to engage with Scripture in a structured and meaningful way, allowing it to guide my actions, and strengthen relationship with God.
+description: In Matthew 5:27-28, Jesus teaches that even if a person does not commit adultery physically, they can still be guilty of it in their heart if they lust after someone who is not their spouse. This emphasizes the importance of controlling one's thoughts and desires, not just their actions.
 pubDate: 2023-07-04
 updatedDate: 2023-07-04
 hero: "./images/devotion.jpg"

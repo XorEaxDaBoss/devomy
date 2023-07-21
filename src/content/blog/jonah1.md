@@ -1,6 +1,6 @@
 ---
 title: Jonah Chapter 1
-description: I use SOAP method to engage with Scripture in a structured and meaningful way, allowing it to guide my actions, and strengthen relationship with God.
+description: In Jonah 1:5, the sailors on the ship with Jonah were afraid and cried out to their gods as a great storm threatened to sink the ship.
 pubDate: 2023-07-06
 updatedDate: 2023-07-06
 hero: "./images/devotion.jpg"

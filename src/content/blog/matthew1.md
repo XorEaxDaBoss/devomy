@@ -1,6 +1,6 @@
 ---
 title: Matthew Chapter 1
-description: I use SOAP method to engage with Scripture in a structured and meaningful way, allowing it to guide my actions, and strengthen relationship with God.
+description: Matthew 1:17 provides a brief summary of the genealogy of Jesus, tracing his lineage from Abraham to Joseph.
 pubDate: 2023-06-30
 updatedDate: 2023-06-30
 hero: "./images/devotion.jpg"

@@ -1,6 +1,6 @@
 ---
 title: Genesis Chapter 6
-description: I use SOAP method to engage with Scripture in a structured and meaningful way, allowing it to guide my actions, and strengthen relationship with God.
+description: Genesis 6:5-8 tells the story of God's decision to bring a flood to destroy all living creatures except for Noah, who found favor in God's eyes. It teaches us important lessons about sin, obedience to God, and his justice and mercy.
 pubDate: 2023-06-30
 updatedDate: 2023-06-30
 hero: "./images/devotion.jpg"

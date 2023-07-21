@@ -1,6 +1,6 @@
 ---
 title: Matthew Chapter 3
-description: I use SOAP method to engage with Scripture in a structured and meaningful way, allowing it to guide my actions, and strengthen relationship with God.
+description: In Matthew 3:8-10, John the Baptist urges his listeners to bear fruit worthy of repentance and warns them that every tree that does not produce good fruit will be cut down and thrown into the fire.
 pubDate: 2023-07-02
 updatedDate: 2023-07-02
 hero: "./images/devotion.jpg"

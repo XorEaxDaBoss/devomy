@@ -1,6 +1,6 @@
 ---
 title: Matthew Chapter 4
-description: I use SOAP method to engage with Scripture in a structured and meaningful way, allowing it to guide my actions, and strengthen relationship with God.
+description: In Matthew 4:21-22, Jesus calls on two brothers, Simon Peter and Andrew, to follow him and become fishers of men. They immediately leave their nets and follow Jesus.
 pubDate: 2023-07-03
 updatedDate: 2023-07-03
 hero: "./images/devotion.jpg"

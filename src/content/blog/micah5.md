@@ -1,6 +1,6 @@
 ---
 title: Micah Chapter 5
-description: I use SOAP method to engage with Scripture in a structured and meaningful way, allowing it to guide my actions, and strengthen relationship with God.
+description: Micah 5:2 is a prophecy that foretells the birthplace of the Messiah, stating that he will come from Bethlehem. This verse holds significant meaning for Christians as it is believed to have been fulfilled through the birth of Jesus Christ.
 pubDate: 2023-07-15
 updatedDate: 2023-07-15
 hero: "./images/devotion.jpg"
