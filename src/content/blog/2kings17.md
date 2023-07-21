@@ -11,22 +11,16 @@ heroAlt: "The logo of Astro and Tailwind CSS"
 
   
 
-2 Kings 16:2: Ahaz was twenty years old when he became king, and he reigned in Jerusalem sixteen years. Unlike David his father, he did not do what was right in the eyes of the LORD his God.
+2 Kings 17:25-26: When they first lived there, they did not worship the LORD; so he sent lions among them and they killed some of the people. It was reported to the king of Assyria: “The people you deported and resettled in the towns of Samaria do not know what the god of that country requires. He has sent lions among them, which are killing them off, because the people do not know what he requires.”
 
 ## Observation
 
-Ahaz succeeded his father Jotham as king and ruled for sixteen years in Jerusalem. However, unlike King David, his ancestor, Ahaz did not follow the ways of the Lord. He was unfaithful to God and did not do what was right in God's sight.
-  
-
+This tells of people not originally from Israel but brought to Samaria by the Assyrians. They noticed that lions were attacking their people and thought it must be a sign from God. The king sent a priest to teach them about God. However, later on, they went back to their old ways of worshipping idols instead of respecting the LORD.
 
 ## Application
 
-The verse draws a sharp contrast between King David, known for his devotion to God and righteous rule, and King Ahaz, who chose to forsake the Lord's ways. It highlights the critical role of leadership in shaping the spiritual direction of a nation and the impact it can have on the people.
-
-
-
-  
+Many people today search for a supernatural solution to their problems but often overlook the importance of finding a god of sovereignty rather than just a God of salvation. The Lord GOD is not content with simply being a savior but desires citizens of His Kingdom who will treat Him as their sovereign. When facing struggles, it is important to seek not just salvation but sovereignty as well.
 
 ## Prayer
 
-Lord, we pray for godly leadership in our lives and in our nations. Help us to learn from the example of Ahaz and the importance of living righteously. Grant us the wisdom and courage to follow Your commands and seek Your will in all that we do. Amen.
+Lord, You are holy, powerful, just, and in control. Thank you for being my Lord, my God. Please correct me when I am tempted to treat you like an ordinary solution to a problem. Help me to remember that you are my Master, and my loyalty to you is not optional. Help me to remember that I am a citizen of your Kingdom, which will never end. Whenever I face trouble, a problem, or a conflict, let me seek you because you are in charge, not just because you can save me. I submit to seeking your will to be fulfilled, no matter what you decide. In Jesus' name, I pray. Amen.

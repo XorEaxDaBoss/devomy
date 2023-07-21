@@ -11,24 +11,17 @@ heroAlt: "The logo of Astro and Tailwind CSS"
 
   
 
-2 Kings 15:4: Nevertheless, the high places were not removed; the people continued to offer sacrifices and burn incense there.
+2 Kings 15:37: In those days the LORD began to send Rezin king of Aram and Pekah son of Remaliah against Judah.
   
 
 ## Observation
 
-In this verse, it is mentioned that during the reign of Azariah (Uzziah) as king of Judah, the high places, which were sites of idolatrous worship, were not removed. Despite Azariah's overall righteousness, the people of Judah continued to engage in offerings and burning incense at these pagan altars.
-
+In this chapter, we learn about the kings of Israel in Samaria. They were constantly betrayed and murdered by their servants and subjects, with the villains taking over the throne. This cycle repeated itself over and over again, with each new king being elected through murder and betrayal. Towards the end of the chapter, we see that Jotham succeeded his father in Judah. He tried to do right by the Lord, though he wasn't perfect. One interesting verse near the end of his paragraph caught my attention.
   
-
-
 ## Application
 
-The persistence of idolatrous practices among the people of Judah demonstrates the allure and power of false gods. It prompts us to examine our own lives and identify any areas where we may be compromising our devotion to the true God. It could be the pursuit of wealth, material possessions, relationships, or any other form of idolatry. Through prayer, reflection, and the guidance of the Holy Spirit, we can identify these idols and take necessary steps to remove them from our hearts and lives.
-
-
-
-  
+This chapter reminds me that God keeps his promises. David's descendants continued to rule over Judah until the end, including Jotham. The promises God made to me through King Jesus will definitely come true, not because I'm faithful, but because He is. This gives me a great confidence boost! However, Jotham experienced testing and discipline in his life. God allowed other kings to come against him as a test. Whether Jotham passed or failed, God's faithfulness as a Father cannot be missed. Likewise, even though I'm not perfect, God will allow tests in my life to draw me closer to Him. He wants me to pass these tests and have victory in my spiritual battles (as described in Ephesians 6).
 
 ## Prayer
 
-Lord, help us to be vigilant in identifying and removing any idols in our lives. Teach us the importance of wholehearted obedience and genuine worship. Give us the discernment to recognize the areas where we may be compromising our devotion to You. Fill our hearts with a sincere desire to worship You alone, rejecting the allure of worldly idols. May our lives be a testament to Your glory and faithfulness. Amen.
+Lord, thank You for always being faithful throughout history and my life. I am grateful for the promises I have in Jesus Christ because of Your faithfulness. Although I know my faithfulness to You is not always perfect, I desire to be disciplined and pass any tests You have in store for me. I am willing to face difficulties as long as it brings me closer to You. My determination, declaration, and devotion to You are unwavering. May Your will be done in my life. In Jesus's name, I pray. Amen.
