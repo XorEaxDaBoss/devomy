@@ -1,6 +1,6 @@
 ---
 title: Matthew Chapter 1
-description: Matthew 1:17 traces the genealogy of Jesus from Abraham to Joseph in three sets of fourteen generations each.
+description: Matthew 1:17 lists the genealogy of Jesus from Abraham to Joseph, with fourteen generations in each of the three sections.
 pubDate: 2023-06-30
 updatedDate: 2023-06-30
 hero: "./images/devotion.jpg"
