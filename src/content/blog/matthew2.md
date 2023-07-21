@@ -11,23 +11,18 @@ heroAlt: "The logo of Astro and Tailwind CSS"
 
   
 
-Matthew 2:19–23: After Herod died, an angel of the Lord appeared in a dream to Joseph in Egypt and said, “Get up, take the child and his mother and go to the land of Israel, for those who were trying to take the child’s life are dead.” So he got up, took the child and his mother and went to the land of Israel. But when he heard that Archelaus was reigning in Judea in place of his father Herod, he was afraid to go there. Having been warned in a dream, he withdrew to the district of Galilee, and he went and lived in a town called Nazareth. So was fulfilled what was said through the prophets, that he would be called a Nazarene.
-  
+Matthew 2:22–23: But when he heard that Archelaus was reigning in Judea in place of his father Herod, he was afraid to go there. Having been warned in a dream, he withdrew to the district of Galilee, and he went and lived in a town called Nazareth. So was fulfilled what was said through the prophets, that he would be called a Nazarene.
 
 ## Observation
 
-Joseph is warned in a dream to take the child and his mother and flee to Egypt. After Herod's death, Joseph is instructed in a dream to return to Israel with Jesus and his family. Fearing Herod's son, Joseph settles in Nazareth, fulfilling the prophecy that Jesus would be called a Nazarene.
-
+Joseph was a very faithful man who heard from God in his dreams multiple times. God warned him to not break his engagement to Mary, to flee from Herod's plan to harm Jesus, and to go to Nazareth. Even though Joseph may not have realized it at the time, all of this was part of God's plan to fulfill prophecies about Jesus. Joseph was afraid to go back to Judea, but God warned him. He was just trying to protect Jesus and do what was best for him.
   
 
 ## Application
 
-Joseph's obedience to the angel's instructions demonstrates his unwavering trust in God's guidance and protection. Similarly, we are called to trust in God's leading in our lives, even when faced with uncertainties or challenges. By seeking His wisdom through prayer and studying His Word, we can align our steps with His divine plan.
+Sometimes being afraid can make us do things for God. When I feel scared, what should I do? Joseph had been told by God in his dreams twice before he got scared about going back to Judea. I think Joseph probably prayed when he was leaving Egypt. He knew God had given him his wife and stepson and kept them safe from Herod in Egypt. So when he got scared again, he turned to the Lord and hoped he would speak to him in a dream. I think God can still speak to us in dreams, but he may not do it as much as some people say he does. I know I have the Bible to help me know God's will and direction. When I get scared, I need to go back to what I know shows me who God is. No matter how I feel like the Holy Spirit is leading me, the Bible is the most important thing. God may have spoken to me in dreams, but I know he has spoken to me through his Word. When I get scared, I need to turn to the Bible.
 
-
-
-  
 
 ## Prayer
 
-Lord, we pray for the strength and courage to trust in your guidance in every aspect of our lives. Help us to seek your wisdom through prayer and your Word, knowing that you have a perfect plan for us. May we be sensitive to your leading and willing to follow wherever you may lead us. We confess that fear can often hinder our obedience and faith. But we know that you are greater than any fear we may face. Help us to cast our fears upon you and to find refuge in your promises. Strengthen our faith, Lord, so that we may step out boldly in obedience to your calling, knowing that you are with us every step of the way. We recognize that your ways are higher than ours, and you may lead us along unexpected paths. Give us hearts that are open and willing to embrace the plans you have for us, even when they differ from our own. Grant us the grace to surrender our own agendas and to align ourselves with your greater purposes. Amen.
+Lord, You know everything, You are all-powerful, and You are always with us. You deserve all the praise for saving us. Sometimes, I get scared because I cannot see what's ahead. But I pray that whenever I feel afraid, I will remember Your holy words, which are always true. Please help me understand Your words and guide me through the Holy Spirit. May Your will be done. I pray this in Jesus' name. Amen.

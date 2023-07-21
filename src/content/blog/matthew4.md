@@ -12,26 +12,17 @@ heroAlt: "The logo of Astro and Tailwind CSS"
   
 
 
-Matthew 4:1–4: Then Jesus was led by the Spirit into the wilderness to be tempted by the devil. After fasting forty days and forty nights, he was hungry. The tempter came to him and said, “If you are the Son of God, tell these stones to become bread.” 
-Jesus answered, “It is written: ‘Man shall not live on bread alone, but on every word that comes from the mouth of God.’”
+Matthew 4:21-22: Going on from there, he saw two other brothers, James son of Zebedee and his brother John. They were in a boat with their father Zebedee, preparing their nets. Jesus called them, and immediately they left the boat and their father and followed him.
   
 
 ## Observation
 
-Jesus is led by the Spirit into the wilderness to be tempted by the devil.
-He undergoes a period of fasting for forty days and nights and experiences physical hunger.
-The devil approaches Jesus and tempts Him to use His power to turn stones into bread, questioning His identity as the Son of God. Jesus responds by quoting Scripture, specifically Deuteronomy 8:3, emphasizing the importance of relying on God's Word for sustenance.
-  
-
+What stood out to me in this passage was that the brothers left their dad. Luke's gospel gives a more detailed timeline, noting that James and John followed Simon Peter and Andrew right after seeing a miraculous catch of fish. Mark's gospel also mentions that their dad had hired helpers. When we combine these accounts, we can see that their decision to follow Jesus wasn't impulsive. We don't know if their dad objected, but he didn't come along. Later, the mom of the brothers approached Jesus, so it's likely she was a follower, but it seems their dad didn't follow Jesus during his time on earth.
 
 ## Application
 
-Jesus' obedience in following the leading of the Spirit into the wilderness teaches us to trust in God's timing and guidance, even when faced with challenges and temptations. We should seek the Holy Spirit's direction in our lives and trust that He will lead us in the right path. Jesus provides an example of how to overcome temptation by relying on the truth of God's Word. Just as Jesus quoted Scripture to combat the devil's temptations, we can find strength and wisdom in God's Word to resist temptation and make righteous choices.
-
-
-
-  
+When I choose to follow Jesus, I'm putting Him first in my life. I have to give up my own plans and desires and let Him guide me in everything I do. I need to trust that He knows what's best for me and has a purpose for my life. Following Jesus means I can't rely on myself anymore and I have to seek His guidance in every decision I make. It also means I have to leave behind my old ways and start living a new life in Him. I have to turn away from things that are wrong and let Jesus change me from the inside out to be more like Him.
 
 ## Prayer
 
-Lord, give us the wisdom and strength to overcome temptation by relying on Your Word. Grant us a hunger and thirst for Your truth, and help us to meditate on Your Word daily. May it be a source of guidance, comfort, and conviction in our lives. Protect us from the attacks and doubts of the enemy, and remind us of who we are in You. Strengthen our faith and empower us to live out our purpose as Your children. Amen.
+Lord, you are the perfect father. You never make mistakes and always discipline and teach us. I have been too proud and sometimes don't listen to your teachings. Please forgive me and help me be humble. Correct me when I don't understand your ways. Help me follow you completely and without hesitation. Please be glorified in my life. In Jesus' name, amen.

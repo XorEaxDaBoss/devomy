@@ -12,23 +12,17 @@ heroAlt: "The logo of Astro and Tailwind CSS"
   
 
 
-Matthew 5:16: In the same way, let your light shine before others, that they may see your good deeds and glorify your Father in heaven.
+Matthew 5:27-28: “You have heard that it was said, ‘You shall not commit adultery.’ But I tell you that anyone who looks at a woman lustfully has already committed adultery with her in his heart.
   
 
 ## Observation
 
-Jesus encourages His followers to let their light shine before others. The purpose of shining our light is to demonstrate good deeds to those around us. The ultimate goal is to bring glory to our Father in heaven.
-  
-
+Firstly, being pure isn't just about sexual stuff. Jesus is talking straight to the heart with this message. Being pure starts from the inside, with how you feel. It's okay to appreciate beauty, but it's not okay to stare, imagine things, or do anything like that. It's important to remember that the physical consequences might not be the same, but the spiritual effects can be just as bad for cheating in your heart as it is for cheating in real life.  
 
 ## Application
 
-Our good deeds should not be done to bring attention to ourselves, but rather to bring glory to our Father in heaven. We should strive to be humble and selfless, acknowledging that any good we do is a result of God's grace and power working through us. Our words and actions should align with our faith and point others to the goodness of God.
-
-
-
-  
+God wants us to have pure thoughts and keep our bodies pure too. We can do this by thinking good thoughts, avoiding things that make us want to do wrong, and being kind to others. We also need to be smart and avoid things that might make us want to do wrong.
 
 ## Prayer
 
-Lord, Guide us to demonstrate good deeds that reflect Your character. Give us opportunities to make a positive impact in the lives of those around us, bringing hope, comfort, and encouragement. May our actions be a testament to Your goodness and draw others closer to You. Amen.
+Lord, please forgive me for my sins. Holy Spirit, please help me remember this verse whenever I am tempted. Please guide me to focus on this verse so that it remains in my heart and mind. Thank you for helping me see the importance of purity. Please help me to act with honesty, integrity, and a pure heart. I pray all of this in the name of Jesus. Amen.

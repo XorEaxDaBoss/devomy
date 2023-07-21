@@ -12,18 +12,17 @@ heroAlt: "The logo of Astro and Tailwind CSS"
   
 
 
-Micah 4:3: He will judge between many peoples and will settle disputes for strong nations far and wide. They will beat their swords into plowshares and their spears into pruning hooks. Nation will not take up sword against nation, nor will they train for war anymore.
+Micah 4:6: “In that day,” declares the LORD, “I will gather the lame; I will assemble the exiles and those I have brought to grief.
   
 
 ## Observation
 
-Micah speaks of a future vision of peace and harmony. He prophesies that God will judge and settle disputes among the nations, resulting in the transformation of weapons of war into tools of agriculture. This imagery symbolizes an era of lasting peace, where nations no longer engage in conflict or prepare for war.  
-
+God likes to use people who are not proud. There are two reasons for this. First, it is personal because if God uses someone who is humble (either by their own choice or because God has humbled them), they will not become arrogant and think they are better than they really are. This means they will keep seeking a relationship with God instead of leaving Him. Secondly, God uses humble people to show His strength. By using lowly people to do great things, God shows the world how powerful and gracious He is. In this passage, God also includes those who have suffered.
 
 ## Application
 
-Micah's prophecy offers hope for a future characterized by peace and unity. It reminds us of our responsibility to work towards peace, justice, and reconciliation in our own lives and communities. We are called to be peacemakers, striving for harmony and understanding among people from different backgrounds and nations.
-  
+I want God to use me. But to do that, I need to be humble. I can choose to be humble, or I can let God humble me. Either way, I have to be willing to let God do what's best for me. It's better than being ignored by God (see Hebrews 12:6).
+
 ## Prayer
 
-Lord, we pray for the nations and peoples around the world who are torn by conflict and strife. May Your judgment and intervention bring about lasting peace. Grant wisdom to world leaders, that they may seek peaceful resolutions to disputes and conflicts. May we strive to build bridges, promote understanding, and seek alternatives to violence and war. Fill our hearts with Your love and compassion for all people, that we may reflect Your peace in a broken world. Amen.
+Lord, please use me in whatever way you see fit. I know that serving You is the best way for me to find salvation. Please humble me as necessary. Holy Spirit, guide me according to Your will. Help me to be obedient to You, even when I don't understand why. Bring me closer to You, so that I can glorify Your name and be part of Your people. In Jesus' name, amen.

@@ -10,28 +10,18 @@ heroAlt: "The logo of Astro and Tailwind CSS"
 ## Scripture
 
 
-Matthew 3:1–3: In those days John the Baptist came, preaching in the wilderness of Judea and saying, “Repent, for the kingdom of heaven has come near.” This is he who was spoken of through the prophet Isaiah: 
-
-         “A voice of one calling in the wilderness, 
-         ‘Prepare the way for the Lord, 
-         make straight paths for him.’ ”
+Matthew 3:8-10: Produce fruit in keeping with repentance. And do not think you can say to yourselves, ‘We have Abraham as our father.’ I tell you that out of these stones God can raise up children for Abraham. The ax is already at the root of the trees, and every tree that does not produce good fruit will be cut down and thrown into the fire.
   
-
 ## Observation
 
-John the Baptist emerges as a prominent figure, preaching in the wilderness of Judea. His message is one of repentance, urging people to turn away from their sins. John's role is connected to the prophecy in Isaiah, as he prepares the way for the coming of the Lord.
-
+As Christians, when we give our lives to Jesus, we are forgiven and become His children. But we need to remember that forgiveness is not a one-time event. We must continue to turn away from our mistakes and have a heart of repentance, always receiving His new mercies every day. Just because we are no longer bound by sin doesn't mean we won't make mistakes, but we must strive to behave as God's children should.
   
 
 
 ## Application
 
-Just as John prepared the way for Jesus, we are called to prepare the way for the Lord in our lives and in the lives of others. This involves removing any barriers or obstacles that hinder our relationship with God and actively inviting Him to work in and through us.
-
-
-
-  
+Repentance is a choice, but it's also a way of thinking and feeling. I need to accept my mistakes and think about them every day. I need to ask God to show me when and how I did wrong. Then I can ask for forgiveness and try to stop making those mistakes. That's the intentional part. The more immediate part is that when I do something wrong and realize it, I need to be humble and say sorry to God and others. Being humble is part of "keeping with repentance."
 
 ## Prayer
 
-Lord, we pray that you would help us to prepare the way for you in our lives. Show us any barriers or obstacles that may hinder our relationship with you, and give us the strength to remove them. Help us to be open and receptive to your work in and through us. Guide us, Lord, as we seek to align our lives with your will. May our hearts be open to your leading and our actions reflect your love. In Jesus' name, we pray. Amen.
+Dear God, I'm sorry for my mistakes. Even after you forgave me, I still mess up. Holy Spirit, please guide me and show me where I'm wrong. Help me be humble, but also bold in serving you. I want to live for your glory. In Jesus' name, amen.
