@@ -1,6 +1,6 @@
 ---
 title: Micah Chapter 4
-description: In Micah 4:6, it is prophesied that God will gather and restore his people and make them strong.
+description: Micah 4:6 speaks of God's desire to gather and restore His people, promising to make the lame and outcast a remnant and a strong nation.
 pubDate: 2023-07-14
 updatedDate: 2023-07-14
 hero: "./images/devotion.jpg"

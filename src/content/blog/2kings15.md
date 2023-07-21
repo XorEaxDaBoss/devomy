@@ -1,6 +1,6 @@
 ---
 title: 2 Kings Chapter 15
-description: 2 Kings 15:37 briefly describes the reign of Jotham, king of Judah.
+description: In 2 Kings 15:37, Zechariah becomes king of Israel, but his reign is short-lived as he is assassinated by Shallum after only six months. 
 pubDate: 2023-07-07
 updatedDate: 2023-07-07
 hero: "./images/devotion.jpg"

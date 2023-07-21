@@ -1,6 +1,6 @@
 ---
 title: Micah Chapter 5
-description: Micah 5:2 prophesies the birthplace of the Messiah in Bethlehem Ephrathah.
+description: Micah 5:2 prophesies the birth of the Messiah in Bethlehem, the ruler of Israel whose origins are from ancient times.
 pubDate: 2023-07-15
 updatedDate: 2023-07-15
 hero: "./images/devotion.jpg"
