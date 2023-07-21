@@ -1,6 +1,6 @@
 ---
 title: Isaiah Chapter 1
-description: Isaiah 1:18 reminds us that God forgives and cleanses us of our sins, no matter how deep or dark. We should seek his forgiveness and turn away from our sinful ways, knowing he welcomes us back with open arms.
+description: Isaiah 1:18 invites sinners to reason and repent, assuring them that God is willing to forgive and cleanse them from their sins.
 pubDate: 2023-07-09
 updatedDate: 2023-07-09
 hero: "./images/devotion.jpg"

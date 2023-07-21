@@ -1,6 +1,6 @@
 ---
 title: Isaiah Chapter 16
-description: Isaiah 16:13-14 describes the judgment that God will bring upon Moab for their pride and arrogance. It serves as a warning to all who exalt themselves above God.
+description: Isaiah 16:13-14 describes the sorrow of the people of Moab after their downfall, and their plea for refuge in Judah.
 pubDate: 2023-07-19
 updatedDate: 2023-07-19
 hero: "./images/devotion.jpg"

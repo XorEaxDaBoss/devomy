@@ -1,6 +1,6 @@
 ---
 title: Isaiah Chapter 21
-description: Isaiah 21:8-9 describes the fall of Babylon and the devastation that will come upon the city. It is a reminder of the consequences of disobedience and the ultimate power of God to bring judgment upon the wicked.
+description: In Isaiah 21:8-9, the watchman saw a chariot with two horsemen, one calling out "Fallen, fallen is Babylon" causing great distress and panic.
 pubDate: 2023-07-20
 updatedDate: 2023-07-20
 hero: "./images/devotion.jpg"

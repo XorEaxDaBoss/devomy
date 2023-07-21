@@ -1,6 +1,6 @@
 ---
 title: Micah Chapter 5
-description: Micah 5:2 is a prophecy that foretells the birthplace of the Messiah, stating that he will come from Bethlehem. This verse holds significant meaning for Christians as it is believed to have been fulfilled through the birth of Jesus Christ.
+description: Micah 5:2 prophesies the birthplace of the Messiah in Bethlehem Ephrathah.
 pubDate: 2023-07-15
 updatedDate: 2023-07-15
 hero: "./images/devotion.jpg"

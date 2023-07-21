@@ -1,6 +1,6 @@
 ---
 title: Matthew Chapter 4
-description: In Matthew 4:21-22, Jesus calls on two brothers, Simon Peter and Andrew, to follow him and become fishers of men. They immediately leave their nets and follow Jesus.
+description: In Matthew 4:21-22, Jesus called two brothers, Simon and Andrew, to follow him and become fishers of men.
 pubDate: 2023-07-03
 updatedDate: 2023-07-03
 hero: "./images/devotion.jpg"

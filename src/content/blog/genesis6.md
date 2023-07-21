@@ -1,6 +1,6 @@
 ---
 title: Genesis Chapter 6
-description: Genesis 6:5-8 tells the story of God's decision to bring a flood to destroy all living creatures except for Noah, who found favor in God's eyes. It teaches us important lessons about sin, obedience to God, and his justice and mercy.
+description: In Genesis 6:5-8, God floods the earth due to human wickedness, but spares Noah and his family because of his righteousness.
 pubDate: 2023-06-30
 updatedDate: 2023-06-30
 hero: "./images/devotion.jpg"

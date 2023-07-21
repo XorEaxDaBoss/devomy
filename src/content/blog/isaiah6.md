@@ -1,6 +1,6 @@
 ---
 title: Isaiah Chapter 6
-description: Isaiah 6:6-7 describes the moment when an angel cleanses Isaiah's lips with a coal from the altar, symbolizing the forgiveness and purification of his sins. It shows how God is willing to forgive and cleanse us, no matter how unworthy we may feel.
+description: In Isaiah 6:6-7, an angel touches Isaiah's lips with a coal and declares his sins forgiven, symbolizing God's mercy and forgiveness.
 pubDate: 2023-07-10
 updatedDate: 2023-07-10
 hero: "./images/devotion.jpg"

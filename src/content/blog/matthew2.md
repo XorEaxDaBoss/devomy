@@ -1,6 +1,6 @@
 ---
 title: Matthew Chapter 2
-description: Matthew 2:22-23 describes how Joseph, Mary and Jesus left Egypt and settled in Nazareth. This was done in order to fulfill the prophecy that the Messiah would be called a Nazarene.
+description: Matthew 2:22–23 describes how Joseph took his family to live in Nazareth after being warned in a dream to flee from King Herod.
 pubDate: 2023-07-01
 updatedDate: 2023-07-01
 hero: "./images/devotion.jpg"

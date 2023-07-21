@@ -1,6 +1,6 @@
 ---
 title: 2 Kings Chapter 16
-description: In 2 Kings 17:25-26, it talks about how the king of Assyria brought people from different nations and settled them in Samaria, resulting in them not knowing how to worship the Lord.
+description: In 2 Kings 17:25-26, Foreigners in Samaria did not worship Israel's God. The king of Assyria appointed one of them as a priest to teach them Israel's ways.
 pubDate: 2023-07-17
 updatedDate: 2023-07-17
 hero: "./images/devotion.jpg"

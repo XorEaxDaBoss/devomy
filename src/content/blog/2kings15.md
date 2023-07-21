@@ -1,6 +1,6 @@
 ---
 title: 2 Kings Chapter 15
-description: In 2 Kings 15:37, it is mentioned that Jotham, the son of Uzziah, reigned over Judah for a period of 16 years. During his reign, he did what was right in the eyes of the Lord, just as his father had done before him.
+description: 2 Kings 15:37 briefly describes the reign of Jotham, king of Judah.
 pubDate: 2023-07-07
 updatedDate: 2023-07-07
 hero: "./images/devotion.jpg"

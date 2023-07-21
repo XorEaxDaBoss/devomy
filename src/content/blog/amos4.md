@@ -1,6 +1,6 @@
 ---
 title: Amos Chapter 4
-description: Amos 4:11 talks about the destruction of a city by fire, as a warning to the people to turn back to the Lord and repent of their sins."
+description: Amos 4:11 describes the destruction of a city by God, warning that the same fate could befall other cities if they do not turn from their wicked ways.
 pubDate: 2023-07-11
 updatedDate: 2023-07-11
 hero: "./images/devotion.jpg"

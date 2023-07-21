@@ -1,6 +1,6 @@
 ---
 title: Amos Chapter 7
-description: Amos 7:14-15 describes how Amos was called by God to prophesy to the people of Israel, despite his lack of formal training as a prophet. The verses emphasize that it was only through God's guidance that Amos was able to speak truthfully and effectively to the people.
+description: In Amos 7:14-15, Amos was chosen by God to deliver His message to the people, even though he was not a professional prophet.
 pubDate: 2023-07-12
 updatedDate: 2023-07-12
 hero: "./images/devotion.jpg"

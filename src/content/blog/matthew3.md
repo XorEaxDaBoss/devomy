@@ -1,6 +1,6 @@
 ---
 title: Matthew Chapter 3
-description: In Matthew 3:8-10, John the Baptist urges his listeners to bear fruit worthy of repentance and warns them that every tree that does not produce good fruit will be cut down and thrown into the fire.
+description: Matthew 3:8-10 speaks about bearing fruits worthy of repentance and the ax being laid at the root of the tree that does not produce good fruit.
 pubDate: 2023-07-02
 updatedDate: 2023-07-02
 hero: "./images/devotion.jpg"

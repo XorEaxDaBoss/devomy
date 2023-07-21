@@ -1,6 +1,6 @@
 ---
 title: Isaiah Chapter 23
-description: Isaiah 23:17 describes the eventual end of Tyre and the fall of its proud and arrogant inhabitants. It serves as a warning against pride and the consequences of putting trust in material possessions rather than in God.
+description: Isaiah 23:17 predicts that Tyre will be forgotten for 70 years, after which it will regain its former prosperity.
 pubDate: 2023-07-21
 updatedDate: 2023-07-21
 hero: "./images/devotion.jpg"
