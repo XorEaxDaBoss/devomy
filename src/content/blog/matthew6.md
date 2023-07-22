@@ -21,4 +21,4 @@ My main focus is to prioritize God in my life and stick to the teachings of this
 
 ## Prayer
 
-Lord, I come to you today in prayer, seeking your guidance and wisdom. As I meditate on Matthew 6:33, I am reminded of your promise to provide for my every need. Help me to keep you first in my heart and seek your kingdom and righteousness above all else. May I trust in your plan for my life and have faith that you will lead me down the right path. Thank you for your love, grace, and mercy. In Jesus' name, I pray. Amen.
+Dear Lord, I come before you today seeking your guidance and wisdom. Your promise to meet all my needs, as stated in Matthew 6:33, reminds me to always keep you as my top priority. It is my desire to seek your kingdom and righteousness above all else. I trust your plan for my life and have faith that you will lead me in the right direction. Thank you for your unfailing love, grace, and mercy. In Jesus' name I pray, Amen.
