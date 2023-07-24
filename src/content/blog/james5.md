@@ -1,8 +1,8 @@
 ---
 title: James Chapter 5
 description: In James 5:19-20, it says that believers should help others who have gone astray. By doing so, they can save their souls from death and forgive many sins.
-pubDate: 2023-07-21
-updatedDate: 2023-07-21
+pubDate: 2023-07-24
+updatedDate: 2023-07-24
 hero: "./images/devotion.jpg"
 heroAlt: "The logo of Astro and Tailwind CSS"
 ---
