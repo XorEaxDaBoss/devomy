@@ -1,6 +1,6 @@
 ---
 title: Matthew Chapter 11
-description: In Matthew 10:26-28, Jesus invites all weary souls to find rest by taking His yoke and learning from Him, for His burden is light.
+description: In Matthew 11:26-28, Jesus invites all weary souls to find rest by taking His yoke and learning from Him, for His burden is light.
 pubDate: 2023-08-04
 updatedDate: 2023-08-04
 hero: "./images/devotion.jpg"
